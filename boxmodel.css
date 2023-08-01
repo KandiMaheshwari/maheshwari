@@ -1,0 +1,42 @@
+/*.bg
+{
+    background-image: url("bg.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+}*/
+.website-heading
+{
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.card
+{
+    width: 400px;
+border: 2px solid black;
+text-align: center;
+background-color:aliceblue;
+display: inline-block;
+}
+.image
+{
+    height: 150px;
+    width: 250px;
+    padding: 15px 2px 0px;
+}
+.card-heading
+{
+    font-size: 28px;
+    font-weight: 600px;
+    color: deeppink;
+}
+.card-paragraph
+{
+    font-size: 20px;
+    font-weight: 300px;
+    color:black;
+}
+.card-know-more
+{
+    color: chocolate;
+}

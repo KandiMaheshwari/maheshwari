@@ -1,0 +1,21 @@
+.bg
+{
+    background-color: lavender;
+    background-image: url();
+    background-position: top;
+    background-size:100ox ;
+}
+.heading
+{
+    text-align: center;
+    text-decoration-style: wavy;
+}
+.image
+{
+ position: fixed;
+ padding-top: 10px 5px;
+}
+.content
+{
+    content: normal;
+}
